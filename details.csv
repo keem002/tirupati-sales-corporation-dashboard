@@ -1,0 +1,101 @@
+Order ID,Amount,Profit,Quantity,Category,Sub Category,Payment Mode
+TSC1000,6327.83,844.96,3,Hardware,Nuts & Bolts,UPI
+TSC1001,8681.67,1451.92,16,Computer Peripherals,Mouse,Cash
+TSC1002,5799.0,1110.38,6,Hardware,Nuts & Bolts,Credit Card
+TSC1003,7580.3,907.23,9,Computer Peripherals,Monitors,UPI
+TSC1004,8368.08,2064.62,9,Surgical Items,Masks,Cash
+TSC1005,3429.43,655.97,11,Sanitation Material,Soap,Cash
+TSC1006,8131.81,677.35,9,Stationery,Notebooks,Credit Card
+TSC1007,1344.63,202.43,14,Sanitation Material,Soap,Cash
+TSC1008,2154.28,211.57,14,Printing Material,Paper,UPI
+TSC1009,6565.12,681.84,11,Sanitation Material,Disinfectants,UPI
+TSC1010,2863.72,651.97,17,Stationery,Folders,Credit Card
+TSC1011,4476.66,745.3,9,Sanitation Material,Soap,UPI
+TSC1012,1667.4,208.25,17,Printing Material,Printers,Cash
+TSC1013,2765.65,308.81,6,Printing Material,Ink,Credit Card
+TSC1014,5492.1,411.42,8,Sanitation Material,Soap,Bank Transfer
+TSC1015,4971.85,1180.11,2,Printing Material,Paper,Credit Card
+TSC1016,1935.93,406.13,5,Surgical Items,Gloves,Credit Card
+TSC1017,2221.87,495.12,14,Computer Peripherals,Mouse,Credit Card
+TSC1018,6971.48,1387.31,17,Sanitation Material,Tissues,UPI
+TSC1019,8004.83,1756.91,2,Safety Equipments,Gloves,Bank Transfer
+TSC1020,2518.65,394.53,16,Computer Peripherals,Keyboard,Cash
+TSC1021,9041.67,2068.39,1,Computer Peripherals,Mouse,Credit Card
+TSC1022,3119.99,413.37,12,Printing Material,Printers,Bank Transfer
+TSC1023,6067.3,1202.26,2,Sanitation Material,Disinfectants,Cash
+TSC1024,2865.39,550.23,5,Safety Equipments,Gloves,UPI
+TSC1025,6835.06,843.48,10,Surgical Items,Masks,UPI
+TSC1026,9384.78,2074.84,20,Printing Material,Printers,Bank Transfer
+TSC1027,1823.56,389.78,11,Hardware,Drills,UPI
+TSC1028,4312.07,987.75,10,Printing Material,Printers,Credit Card
+TSC1029,5386.53,818.38,20,Surgical Items,Masks,Bank Transfer
+TSC1030,4833.98,870.63,2,Printing Material,Paper,Credit Card
+TSC1031,673.65,114.14,9,Safety Equipments,Helmets,Cash
+TSC1032,2149.07,522.55,12,Surgical Items,Syringes,UPI
+TSC1033,696.18,162.42,6,Safety Equipments,Helmets,UPI
+TSC1034,7514.22,1665.51,3,Printing Material,Paper,Bank Transfer
+TSC1035,7796.74,412.09,18,Safety Equipments,Helmets,UPI
+TSC1036,2369.68,205.91,6,Sanitation Material,Soap,Bank Transfer
+TSC1037,5303.52,887.6,8,Computer Peripherals,Monitors,Cash
+TSC1038,6640.63,1192.99,5,Computer Peripherals,Mouse,Cash
+TSC1039,9203.17,2164.53,20,Hardware,Screws,Credit Card
+TSC1040,3503.17,861.81,9,Hardware,Nuts & Bolts,Bank Transfer
+TSC1041,1240.05,261.44,6,Hardware,Screws,Cash
+TSC1042,4343.32,606.15,6,Computer Peripherals,Monitors,Bank Transfer
+TSC1043,8222.64,1684.4,4,Safety Equipments,Goggles,Cash
+TSC1044,3294.96,645.13,14,Safety Equipments,Gloves,UPI
+TSC1045,5336.25,838.88,3,Safety Equipments,Gloves,Cash
+TSC1046,8939.37,1176.6,16,Stationery,Pens,Cash
+TSC1047,4224.38,700.58,8,Stationery,Folders,Cash
+TSC1048,6191.28,804.12,18,Stationery,Pens,UPI
+TSC1049,1020.4,221.8,18,Sanitation Material,Tissues,Credit Card
+TSC1050,6091.25,509.66,3,Safety Equipments,Helmets,Bank Transfer
+TSC1051,4329.82,224.28,2,Hardware,Nuts & Bolts,Cash
+TSC1052,7840.57,1697.7,17,Hardware,Nuts & Bolts,Credit Card
+TSC1053,8295.1,1804.28,11,Stationery,Folders,Cash
+TSC1054,4785.1,892.23,16,Surgical Items,Masks,Cash
+TSC1055,7877.18,1248.07,18,Printing Material,Paper,Bank Transfer
+TSC1056,6620.72,1428.44,17,Surgical Items,Gloves,UPI
+TSC1057,827.24,148.0,4,Surgical Items,Gloves,Cash
+TSC1058,3846.22,704.32,16,Computer Peripherals,Keyboard,Bank Transfer
+TSC1059,9095.07,1303.78,12,Safety Equipments,Goggles,Credit Card
+TSC1060,7925.69,976.42,17,Safety Equipments,Gloves,Cash
+TSC1061,3995.91,812.44,8,Printing Material,Ink,Cash
+TSC1062,3907.61,931.95,6,Stationery,Folders,UPI
+TSC1063,512.38,92.01,8,Printing Material,Paper,Bank Transfer
+TSC1064,2026.8,119.05,16,Safety Equipments,Goggles,Credit Card
+TSC1065,7007.03,1163.54,7,Safety Equipments,Gloves,Cash
+TSC1066,8345.95,1537.12,20,Computer Peripherals,Monitors,Bank Transfer
+TSC1067,7809.77,1741.69,5,Printing Material,Printers,Bank Transfer
+TSC1068,3304.57,304.93,8,Hardware,Drills,UPI
+TSC1069,6427.83,509.68,8,Computer Peripherals,Keyboard,Credit Card
+TSC1070,5596.97,1075.15,4,Computer Peripherals,Mouse,Bank Transfer
+TSC1071,6203.08,1061.02,3,Safety Equipments,Helmets,Bank Transfer
+TSC1072,5361.59,647.62,14,Printing Material,Paper,UPI
+TSC1073,9587.64,1637.41,6,Stationery,Pens,Bank Transfer
+TSC1074,7042.0,943.32,11,Computer Peripherals,Keyboard,Bank Transfer
+TSC1075,9840.28,1993.46,20,Stationery,Notebooks,Bank Transfer
+TSC1076,4062.27,971.73,3,Sanitation Material,Soap,Cash
+TSC1077,8617.87,1434.92,11,Computer Peripherals,Mouse,Cash
+TSC1078,7992.62,1716.15,10,Stationery,Pens,Cash
+TSC1079,7835.59,1294.08,20,Safety Equipments,Helmets,Credit Card
+TSC1080,6108.55,581.55,5,Surgical Items,Gloves,Credit Card
+TSC1081,1880.05,325.7,7,Sanitation Material,Soap,Cash
+TSC1082,8768.68,468.59,18,Surgical Items,Gloves,Bank Transfer
+TSC1083,3073.09,705.85,20,Sanitation Material,Tissues,UPI
+TSC1084,8327.17,1649.34,1,Stationery,Pens,Bank Transfer
+TSC1085,890.11,101.25,8,Printing Material,Printers,Credit Card
+TSC1086,2698.71,485.31,9,Safety Equipments,Gloves,Credit Card
+TSC1087,3849.94,645.74,10,Printing Material,Paper,Credit Card
+TSC1088,4067.89,979.69,4,Stationery,Pens,Credit Card
+TSC1089,2985.18,587.22,7,Surgical Items,Masks,Credit Card
+TSC1090,9755.21,1221.68,2,Hardware,Drills,UPI
+TSC1091,4147.59,311.79,18,Safety Equipments,Goggles,Credit Card
+TSC1092,4714.89,953.74,14,Hardware,Screws,Credit Card
+TSC1093,1426.91,186.1,17,Printing Material,Ink,Bank Transfer
+TSC1094,2713.59,187.31,13,Stationery,Pens,Bank Transfer
+TSC1095,2387.76,354.24,7,Surgical Items,Syringes,Cash
+TSC1096,5727.25,881.76,20,Computer Peripherals,Mouse,Bank Transfer
+TSC1097,9173.05,1692.71,16,Sanitation Material,Tissues,Cash
+TSC1098,7169.53,408.18,7,Sanitation Material,Disinfectants,Bank Transfer
+TSC1099,1861.81,262.05,3,Sanitation Material,Disinfectants,UPI

@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,State,City
+TSC1000,2024-02-08,Brittney Gray,Karnataka,Bangalore
+TSC1001,2024-03-08,Renee Jones,West Bengal,Kolkata
+TSC1002,2023-09-27,Suzanne Jones,West Bengal,Kolkata
+TSC1003,2023-11-02,Adrian Anthony,Tamil Nadu,Chennai
+TSC1004,2024-04-05,Rebecca Melton,West Bengal,Kolkata
+TSC1005,2024-07-15,Kathy Santana,Maharashtra,Nagpur
+TSC1006,2024-08-17,Brandon Bauer,Maharashtra,Nagpur
+TSC1007,2024-08-29,Wanda Burgess,West Bengal,Siliguri
+TSC1008,2025-06-26,Donna Santana,Maharashtra,Nagpur
+TSC1009,2024-06-12,Karen Gibbs,Maharashtra,Mumbai
+TSC1010,2024-05-20,Cynthia Hancock,West Bengal,Siliguri
+TSC1011,2023-08-08,April White,Karnataka,Bangalore
+TSC1012,2024-08-20,Faith Snyder,Rajasthan,Udaipur
+TSC1013,2024-02-12,Elizabeth Russell,Delhi,New Delhi
+TSC1014,2025-04-13,Christopher Walls,Tamil Nadu,Chennai
+TSC1015,2024-01-25,Ronald Brown,Karnataka,Mysore
+TSC1016,2023-08-20,Mr. Steve Guzman,Gujarat,Surat
+TSC1017,2023-09-25,Brittany Hatfield,West Bengal,Siliguri
+TSC1018,2024-06-07,John Ellis,Delhi,New Delhi
+TSC1019,2023-10-10,Christian Johnson,Rajasthan,Jaipur
+TSC1020,2024-11-14,Fred Graves,Delhi,New Delhi
+TSC1021,2024-12-09,James Frank,Delhi,New Delhi
+TSC1022,2024-08-07,Antonio Haynes,Gujarat,Surat
+TSC1023,2024-11-12,Gail Martinez,Karnataka,Bangalore
+TSC1024,2025-01-04,Elizabeth Sweeney,West Bengal,Kolkata
+TSC1025,2025-07-01,Edward Reese,Maharashtra,Nagpur
+TSC1026,2025-01-02,Mrs. Shannon Forbes,Delhi,New Delhi
+TSC1027,2023-08-22,Jill Sherman,Karnataka,Mysore
+TSC1028,2024-07-11,Mark Huber,Rajasthan,Udaipur
+TSC1029,2025-06-23,Katelyn Santana,Delhi,New Delhi
+TSC1030,2024-08-30,Laura Robinson,Karnataka,Mysore
+TSC1031,2023-10-04,Stacey Burton,Karnataka,Mysore
+TSC1032,2024-08-17,Jennifer Torres,Rajasthan,Jaipur
+TSC1033,2023-10-20,Steven Henderson,Maharashtra,Nagpur
+TSC1034,2023-09-27,Jennifer Garcia,Rajasthan,Jaipur
+TSC1035,2025-03-16,Troy Moody,Rajasthan,Jaipur
+TSC1036,2024-06-22,Amanda Calhoun,Karnataka,Bangalore
+TSC1037,2024-04-01,Angela Jones,Gujarat,Ahmedabad
+TSC1038,2024-04-28,Haley Thompson,Maharashtra,Pune
+TSC1039,2025-04-28,Sabrina Jones,Tamil Nadu,Coimbatore
+TSC1040,2025-06-16,Aaron Hopkins,Gujarat,Ahmedabad
+TSC1041,2025-02-11,Barbara Smith,Tamil Nadu,Coimbatore
+TSC1042,2024-05-05,Tasha Hall,West Bengal,Siliguri
+TSC1043,2023-11-11,Brian Cooper,Rajasthan,Jaipur
+TSC1044,2024-02-09,Vincent Cox,Rajasthan,Jaipur
+TSC1045,2024-07-25,Elizabeth Johns,Karnataka,Bangalore
+TSC1046,2024-09-25,Catherine Kaiser,Maharashtra,Nagpur
+TSC1047,2023-10-11,Elizabeth Bennett,Karnataka,Bangalore
+TSC1048,2023-11-15,Regina Stewart,Delhi,New Delhi
+TSC1049,2024-01-28,Clinton Watson,Tamil Nadu,Coimbatore
+TSC1050,2024-12-20,Carlos Smith,West Bengal,Kolkata
+TSC1051,2023-09-22,Bonnie Evans,Karnataka,Mysore
+TSC1052,2024-06-11,Brenda Henderson,Maharashtra,Nagpur
+TSC1053,2024-11-29,David Chen,Maharashtra,Pune
+TSC1054,2024-11-29,Amy Ortiz,Maharashtra,Pune
+TSC1055,2024-06-12,Stephanie Alexander,Maharashtra,Pune
+TSC1056,2024-05-07,John Clements,West Bengal,Kolkata
+TSC1057,2025-04-02,Brian Jacobs,Delhi,New Delhi
+TSC1058,2023-11-20,Jill Ross,West Bengal,Siliguri
+TSC1059,2025-03-11,Christopher Chung,West Bengal,Siliguri
+TSC1060,2024-04-13,Brenda Ford,Rajasthan,Jaipur
+TSC1061,2024-11-30,Paul Phillips,Delhi,New Delhi
+TSC1062,2025-04-28,Lisa Smith,West Bengal,Kolkata
+TSC1063,2024-03-11,William Turner,Karnataka,Mysore
+TSC1064,2024-11-08,Michael Ruiz,Gujarat,Surat
+TSC1065,2024-12-31,Dr. Joshua Sullivan DDS,Rajasthan,Udaipur
+TSC1066,2023-08-09,Stephen Williams,Gujarat,Surat
+TSC1067,2024-02-08,Steve Mckinney,Karnataka,Mysore
+TSC1068,2024-07-03,David Campbell,Tamil Nadu,Chennai
+TSC1069,2025-03-01,Christina Miller,Tamil Nadu,Chennai
+TSC1070,2023-09-16,Elizabeth Morgan,Rajasthan,Udaipur
+TSC1071,2024-09-07,Stephanie Gill,Tamil Nadu,Chennai
+TSC1072,2023-09-14,Dylan Meyer,Delhi,New Delhi
+TSC1073,2024-10-11,Christine Garcia,Gujarat,Ahmedabad
+TSC1074,2024-11-27,Natalie Strong,Maharashtra,Pune
+TSC1075,2024-02-25,Jacob Fuller,Maharashtra,Mumbai
+TSC1076,2023-11-22,Bryan Morales,Karnataka,Mysore
+TSC1077,2024-07-21,Michael Gomez,Rajasthan,Jaipur
+TSC1078,2024-07-25,Claudia Burns,West Bengal,Kolkata
+TSC1079,2024-08-16,Matthew Brown,Rajasthan,Udaipur
+TSC1080,2024-03-13,Jon Clay,Karnataka,Mysore
+TSC1081,2024-01-07,John Oneal,Karnataka,Mysore
+TSC1082,2023-07-31,Veronica Mcdaniel,Delhi,New Delhi
+TSC1083,2023-09-25,Natalie Caldwell,Gujarat,Ahmedabad
+TSC1084,2023-07-28,Brian Smith,Rajasthan,Jaipur
+TSC1085,2024-02-18,Melissa Acosta,Delhi,New Delhi
+TSC1086,2024-01-16,Kenneth Lee,Tamil Nadu,Coimbatore
+TSC1087,2024-06-25,Gary Jackson,Maharashtra,Pune
+TSC1088,2024-06-15,Melissa Hernandez,Karnataka,Mysore
+TSC1089,2025-07-17,Kelly Anderson,Gujarat,Surat
+TSC1090,2025-06-30,Gregory Lucero,Gujarat,Ahmedabad
+TSC1091,2024-06-19,Jean Robinson,Rajasthan,Udaipur
+TSC1092,2023-12-23,Dan Mckinney,Gujarat,Ahmedabad
+TSC1093,2025-06-26,David Miller,Tamil Nadu,Chennai
+TSC1094,2023-12-16,Patrick Byrd,Gujarat,Ahmedabad
+TSC1095,2024-01-21,Lisa Bush,Maharashtra,Nagpur
+TSC1096,2024-08-24,Patricia Andrade,West Bengal,Kolkata
+TSC1097,2024-06-07,Mark Black,West Bengal,Siliguri
+TSC1098,2024-12-08,Tara Villa,Karnataka,Mysore
+TSC1099,2024-10-17,David Alvarez,Delhi,New Delhi
